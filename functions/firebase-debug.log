@@ -4603,3 +4603,4 @@ Issues? Report them at https://github.com/firebase/firebase-tools/issues and att
 [info] Serving at port 8467
 
 [debug] [2026-11-11T14:01:49.667Z] Got response from /__/functions.yaml {"specVersion":"v1alpha1","endpoints":{"streamRecords":{"availableMemoryMb":512,"timeoutSeconds":300,"minInstances":null,"maxInstances":null,"ingressSettings":null,"concurrency":20,"serviceAccountEmail":null,"vpc":null,"platform":"gcfv2","region":["us-central1"],"labels":{},"callableTrigger":{},"entryPoint":"streamRecords"}},"extensions":{},"requiredAPIs":[]}
+[info] ✔  functions: Loaded functions definitions from source: streamRecords. {"metadata":{"emulator":{"name":"functions"},"message":"Loaded functions definitions from source: streamRecords."}}
