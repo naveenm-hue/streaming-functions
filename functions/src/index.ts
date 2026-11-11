@@ -1,2 +1,2 @@
 
-export { streamRecords } from './functions/streamRecords.js';
+export { streamRecords } from './streamRecords.js';
